@@ -1,1 +1,1 @@
-# This will be a source for my projects i make throughout everything
+# This will be a source for my public projects i make throughout everything
